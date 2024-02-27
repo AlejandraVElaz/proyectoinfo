@@ -1,0 +1,52 @@
+@charset "utf-8";
+#bloque {
+    height: 700px;
+    width: 100%;
+    background-color: #004681;
+    color: #FFFFFF;
+}
+#encabezado {
+    height: 150px;
+    width: 50%;
+    float: left;
+    background-color: #418BC9;
+	font-family: Broadway;
+	color: #FFFFFF;
+	font-size: 90px
+}
+#cuerpo {
+    height: 550px;
+    width: 100%;
+    background-color: #71A8D6;
+    font-size: small;
+    font-style: normal;
+    font-family: Broadway;
+    color: #FFFFFF;
+    text-align: left;
+}
+#pie {
+    height: 150px;
+    width: 50%;
+    background-color: #004681;
+    float: left;
+}
+#menu {
+    height: 150px;
+    width: 50%;
+    float: left;
+    background-color: #004782;
+    color: #FFFFFF;
+    font-size: 15px;
+    font-family: Candara Light;
+    text-shadow: 0px 0px #FFFFFF;
+}
+#encabezado {
+    height: 150px;
+    width: 50%;
+}
+#encabezado {
+    float: left;
+    height: 150px;
+    width: 50%;
+    font-family: Broadway;
+}
